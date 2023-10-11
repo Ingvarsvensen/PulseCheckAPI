@@ -79,7 +79,3 @@ Scale your worker
 ## Usage
 
 Once deployed, the script will automatically check the API at regular intervals. If the API is down, a Telegram message will be sent to the specified chat ID.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
